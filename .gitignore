@@ -1,0 +1,8 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/MyFirstMauiApp/MyFirstMauiApp/bin/Debug
+/MyFirstMauiApp/MyFirstMauiApp/obj
+/MyFirstMauiApp/.vs/MyFirstMauiApp
+/MyFirstMauiApp/MyFirstMauiApp/.vs
